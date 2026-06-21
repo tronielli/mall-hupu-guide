@@ -1,2 +1,14 @@
 # mall-hupu-guide
-HTML page archive and documentation
+
+页面文件管理仓库
+
+这里集中保存独立页面文件，便于按仓库查看发布记录。
+
+## 存放说明
+
+- 页面内容写入独立 HTML 文件
+- 仓库说明保持在 README 中
+
+## 发布说明
+
+每次发布会写入对应页面文件，具体路径由发布任务决定。
